@@ -1,4 +1,5 @@
 /home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Security/Service/RolService.java
+/home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Entity/hys.java
 /home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Repository/REducacion.java
 /home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Security/jwt/JwtEntryPoint.java
 /home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Security/Entity/Usuario.java
@@ -7,14 +8,17 @@
 /home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Security/Service/UserDetailsImpl.java
 /home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Dto/dtoEducacion.java
 /home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Controller/CEducacion.java
+/home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Service/Shys.java
 /home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Security/Repository/iRolRepository.java
 /home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Controller/CExperiencia.java
 /home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Repository/IPersonaRepository.java
 /home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Entity/Persona.java
 /home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Service/SExperiencia.java
+/home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Controller/CHys.java
 /home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Security/Controller/AuthController.java
 /home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Security/Controller/Mensaje.java
 /home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Security/Repository/iUsuarioRepository.java
+/home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Dto/dtoPersona.java
 /home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Security/Entity/Rol.java
 /home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Security/Enums/RolNombre.java
 /home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Entity/Educacion.java
@@ -25,8 +29,9 @@
 /home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Security/Dto/LoginUsuario.java
 /home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Security/jwt/JwtTokenFilter.java
 /home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Repository/RExperiencia.java
+/home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Dto/dtoHys.java
 /home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Service/ImpPersonaService.java
-/home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Interface/IPersonaService.java
+/home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Repository/Rhys.java
 /home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Controller/PersonaController.java
 /home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Service/Seducacion.java
 /home/chris/Documents/Ing_Material/Angular/BackEnd/src/main/java/com/miportfolio/cgc/Dto/dtoExperiencia.java

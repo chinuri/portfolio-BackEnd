@@ -1,3 +1,4 @@
+com/miportfolio/cgc/Entity/hys.class
 com/miportfolio/cgc/Dto/dtoEducacion.class
 com/miportfolio/cgc/Security/Dto/LoginUsuario.class
 com/miportfolio/cgc/Entity/Experiencia.class
@@ -11,11 +12,13 @@ com/miportfolio/cgc/Security/MainSecurity.class
 com/miportfolio/cgc/Security/jwt/JwtProvider.class
 com/miportfolio/cgc/Security/Dto/JwtDto.class
 com/miportfolio/cgc/Security/Entity/Rol.class
+com/miportfolio/cgc/Service/Shys.class
 com/miportfolio/cgc/Repository/REducacion.class
-com/miportfolio/cgc/Interface/IPersonaService.class
 com/miportfolio/cgc/Repository/IPersonaRepository.class
 com/miportfolio/cgc/CgcApplication.class
+com/miportfolio/cgc/Dto/dtoPersona.class
 com/miportfolio/cgc/Repository/RExperiencia.class
+com/miportfolio/cgc/Controller/CHys.class
 com/miportfolio/cgc/Security/Entity/UsuarioPrincipal.class
 com/miportfolio/cgc/Controller/CExperiencia.class
 com/miportfolio/cgc/Security/jwt/JwtEntryPoint.class
@@ -25,7 +28,9 @@ com/miportfolio/cgc/Dto/dtoExperiencia.class
 com/miportfolio/cgc/Security/Service/UsuarioService.class
 com/miportfolio/cgc/Service/SExperiencia.class
 com/miportfolio/cgc/Security/Service/UserDetailsImpl.class
+com/miportfolio/cgc/Dto/dtoHys.class
 com/miportfolio/cgc/Security/Dto/NuevoUsuario.class
+com/miportfolio/cgc/Repository/Rhys.class
 com/miportfolio/cgc/Controller/CEducacion.class
 com/miportfolio/cgc/Entity/Educacion.class
 com/miportfolio/cgc/Security/jwt/JwtTokenFilter.class
