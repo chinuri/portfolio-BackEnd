@@ -20,9 +20,6 @@ public class JwtEntryPoint implements AuthenticationEntryPoint {
         logger.error("Error en el metodo commence");
         response.sendError(HttpServletResponse.SC_UNAUTHORIZED);
     }
-    
-    
-    
-    
+     
     
 }

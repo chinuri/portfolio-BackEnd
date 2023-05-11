@@ -29,7 +29,7 @@ public class CHys {
     @GetMapping("/lista")
     public ResponseEntity<List<hys>> list() {
         List<hys> list = shys.list();
-        return new ResponseEntity<>(list, HttpStatus.OK);
+        return new ResponseEntity(list, HttpStatus.OK);
     }
     
     @GetMapping("/detail/{id}")

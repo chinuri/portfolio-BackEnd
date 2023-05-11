@@ -8,15 +8,18 @@ public class dtoExperiencia {
     private String nombreE;
     @NotBlank
     private String descripcionE;
+    @NotBlank
+    private String urlEx;
     
     //Constructores
 
     public dtoExperiencia() {
     }
 
-    public dtoExperiencia(String nombreE, String descripcionE) {
+    public dtoExperiencia(String nombreE, String descripcionE, String urlEx) {
         this.nombreE = nombreE;
         this.descripcionE = descripcionE;
+        this.urlEx = urlEx;
     }
     
     //Getter y Setter
@@ -35,6 +38,14 @@ public class dtoExperiencia {
 
     public void setDescripcionE(String descripcionE) {
         this.descripcionE = descripcionE;
+    }
+
+    public String getUrlEx() {
+        return urlEx;
+    }
+
+    public void setUrlEx(String urlEx) {
+        this.urlEx = urlEx;
     }
     
     

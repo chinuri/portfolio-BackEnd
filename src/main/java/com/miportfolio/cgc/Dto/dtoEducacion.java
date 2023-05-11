@@ -8,13 +8,16 @@ public class dtoEducacion {
     private String nombreE;
     @NotBlank
     private String descripcionE;
+    @NotBlank
+    private String urlE;
 
     public dtoEducacion() {
     }
 
-    public dtoEducacion(String nombreE, String descripcionE) {
+    public dtoEducacion(String nombreE, String descripcionE, String urlE) {
         this.nombreE = nombreE;
         this.descripcionE = descripcionE;
+        this.urlE = urlE;
     }
 
     public String getNombreE() {
@@ -32,6 +35,15 @@ public class dtoEducacion {
     public void setDescripcionE(String descripcionE) {
         this.descripcionE = descripcionE;
     }
+
+    public String getUrlE() {
+        return urlE;
+    }
+
+    public void setUrlE(String urlE) {
+        this.urlE = urlE;
+    }
+
     
     
 }

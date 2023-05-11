@@ -12,14 +12,16 @@ public class Experiencia {
     private int id;
     private String nombreE;
     private String descripcionE;
+    private String urlEx;
 
     //Constructores
     public Experiencia() {
     }
 
-    public Experiencia(String nombreE, String descripcionE) {
+    public Experiencia(String nombreE, String descripcionE, String urlEx) {
         this.nombreE = nombreE;
         this.descripcionE = descripcionE;
+        this.urlEx = urlEx;
     }
     
     
@@ -48,8 +50,15 @@ public class Experiencia {
     public void setDescripcionE(String descripcionE) {
         this.descripcionE = descripcionE;
     }
-    
-    
+
+    public String getUrlEx() {
+        return urlEx;
+    }
+
+    public void setUrlEx(String urlEx) {
+        this.urlEx = urlEx;
+    }
+        
     
     
 }
